@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from "react";
 import "./App.css";
 
 
-export const Red_Queen = () => {
+export const RedQueen = () => {
   let alice_Sprite = useRef(null);
   let foreground = useRef(null);
   let background = useRef(null);
@@ -125,4 +125,4 @@ export const Red_Queen = () => {
   );
 }
 
-export default Red_Queen;
+export default RedQueen;

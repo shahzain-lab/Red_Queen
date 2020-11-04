@@ -1,11 +1,11 @@
-import React,{useRef,useEffect} from 'react';
+import React from 'react';
 import './App.css';
-import {Red_Queen} from './Red_Queen';
+import {RedQueen} from './Redqueen';
 
 function App() {  
   return(
     <div>
-      <Red_Queen />
+      <RedQueen />
       </div>
   )
   
